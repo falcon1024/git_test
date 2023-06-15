@@ -1,4 +1,4 @@
 # git_test
 
 
-some content
+master info
